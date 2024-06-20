@@ -24,7 +24,7 @@ To get started with this Webpack setup, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/my-webpack-project.git
+    git clone  https://github.com/MoMansur/Webpack-Setup
     cd my-webpack-project
     ```
 
